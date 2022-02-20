@@ -1,0 +1,250 @@
+nav {
+  font-family: "Oswald";
+}
+
+.navbar {
+  justify-content: center !important;
+}
+
+nav img {
+  padding-right: 5cm !important;
+}
+
+ul {
+  padding-right: 0.7cm !important;
+}
+
+.header,
+.slogan,
+.contact {
+  background-image: url(misc/grille.png);
+}
+
+nav a {
+  font-size: 0.2cm;
+  color: #a1a19f !important;
+  padding: 0.1cm !important;
+  font-family: "Droid Sans";
+}
+
+nav p {
+  font-size: 0.4cm;
+  color: #818080 !important;
+  margin-bottom: 0.1cm !important;
+  padding: 0.1cm !important;
+}
+
+.rouge {
+  border: 2px solid #f76900;
+  opacity: 1;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.jaune {
+  border: 2px solid #fcd04a;
+  opacity: 1;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.vert {
+  border: 2px solid #b9d482;
+  opacity: 1;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.bleu {
+  border: 2px solid #3d92c2;
+  opacity: 1;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.violet {
+  border: 2px solid #c078d0;
+  opacity: 1;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+iframe {
+  width: 650px !important;
+  height: 400px !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0.6cm;
+  padding-bottom: 0.6cm;
+}
+
+.separator {
+  margin-top: 0.25cm !important;
+  margin-bottom: 0.25cm !important;
+  background-color: rgb(201, 201, 201);
+}
+
+#slogan {
+  padding-top: 0.6cm !important;
+  padding-bottom: 0.6cm !important;
+  text-align: center;
+  font-family: "Droid Serif" !important;
+  font-size: 0.45cm;
+  color: #817f87 !important;
+  margin-bottom: 0;
+}
+
+.solo {
+  border: 1px solid rgb(228, 228, 228);
+  font-family: "Oswald";
+  max-height: 400px;
+}
+
+article h1 {
+  font-size: 0.6cm;
+  color: #e77a27;
+}
+
+.double {
+  font-family: "Oswald";
+}
+
+.last {
+  font-family: "Oswald";
+}
+
+.sous-titre {
+  font-family: "Droid Serif";
+  font-size: 0.3cm;
+  color: #d0d0cf !important;
+}
+
+article p {
+  font-size: 0.3cm;
+  font-family: "Droid Sans";
+  color: #8f9299 !important;
+}
+
+article img {
+  max-width: 100%;
+}
+
+article a {
+  text-decoration: none;
+  font-family: "Droid Serif";
+  color: rgb(167, 167, 167) !important;
+  font-size: 0.35cm;
+}
+
+.accrobranche {
+  padding: 8px;
+  border: 1px solid rgb(243, 243, 243) !important;
+  margin-top: 10px;
+  margin-right: 10px;
+  box-shadow: 2px 2px 2px rgba(189, 189, 189, 0.3);
+  transition: transform 0.2s;
+}
+
+.accrobranche:hover {
+  transform: scale(1.2);
+}
+article {
+  padding-top: 0.8cm !important;
+  margin-bottom: 0.8cm !important;
+  margin-left: 15px;
+}
+
+.hr1 {
+  margin-bottom: 0.8cm !important;
+  color: rgb(201, 201, 201);
+}
+
+.hr2 {
+  color: rgb(201, 201, 201);
+}
+
+h2 {
+  font-family: "Oswald";
+  font-size: 0.4cm !important;
+  color: rgb(145, 145, 145) !important;
+  padding-top: 0.6cm !important;
+  padding-bottom: 0.17cm !important;
+}
+
+.date,
+.com {
+  font-family: "Droid Serif" !important;
+  font-size: 0.3cm;
+  color: #d0d0cf !important;
+}
+
+.pcontact p {
+  font-family: "Droid Sans";
+  font-size: 0.3cm;
+  color: #a09fa6 !important;
+  margin-bottom: 0.1cm;
+}
+
+.pcontact strong {
+  color: rgb(99, 99, 99) !important;
+}
+
+.liens {
+  color: rgb(163, 160, 160) !important;
+  font-size: 0.3cm;
+  font-family: "Droid Sans";
+  margin-top: 0.5cm !important;
+}
+
+.com {
+  color: rgb(163, 160, 160) !important;
+  font-size: 0.3cm;
+  font-family: "Droid Sans";
+}
+
+div.col {
+  padding-bottom: 0.3cm;
+}
+
+.imglogo {
+  width: 30px !important;
+  height: 30px !important;
+}
+
+.hr3 {
+  color: rgb(201, 201, 201);
+}
+
+.footer a {
+  text-decoration: none;
+  color: rgb(145, 143, 143);
+  font-family: "Droid Sans";
+  font-size: 0.3cm;
+}
+
+small {
+  color: #acadad;
+  font-family: "Droid Sans";
+  font-size: 0.31cm !important;
+}
+
+.foot {
+  margin-left: 160px;
+  margin-top: 0.5cm;
+}
+
+.logofoot {
+  float: right;
+  margin-top: -13px;
+  margin-right: 190px;
+}
+
+.logo {
+  padding-bottom: 10px;
+  display: inline;
+  transition: transform 0.2s;
+}
+
+.logo:hover {
+  transform: scale(1.5);
+}
